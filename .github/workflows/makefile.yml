@@ -17,7 +17,7 @@ jobs:
       with:
           kernel-url: https://github.com/LineageOS/android_kernel_xiaomi_msm8998
           kernel-dir: xzr-4.9
-          kernel-branch: lineage-17.1
+          kernel-branch: sagit
           config: sagit_defconfig
           arch: arm64
           aosp-gcc: true
