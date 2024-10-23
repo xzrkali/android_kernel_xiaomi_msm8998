@@ -16,7 +16,7 @@ jobs:
       uses: dabao1955/kernel_build_action@main
       with:
           kernel-url: https://github.com/LineageOS/android_kernel_xiaomi_msm8998
-          kernel-dir: xzr
+          kernel-dir: xzr-4.9
           kernel-branch: lineage-17.1
           config: sagit_defconfig
           arch: arm64
